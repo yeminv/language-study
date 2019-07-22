@@ -3,6 +3,7 @@
 Learn natural language.
 ## [English](english/)
    * [为什么学英语](english/为什么学英语.md)
+   * [从哲学原理看英语句子结构的本质](english/grammar/从哲学原理看英语句子结构的本质.md)
 ### pronunciation
 * [English - Pronunciation (谢孟媛)](english/pronunciation/xie/preface.md)
     * [Unit 1 - KK 音标](english/pronunciation/xie/unit1-kk.md)
