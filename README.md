@@ -1,7 +1,7 @@
 # Nature Language Study
 
 Learn natural language.
-## [English](english/)
+## English
    * [为什么学英语](english/为什么学英语.md)
    * [从哲学原理看英语句子结构的本质](english/grammar/从哲学原理看英语句子结构的本质.md)
 ### pronunciation
