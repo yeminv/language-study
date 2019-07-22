@@ -1,7 +1,9 @@
 # Nature Language Study
 
 Learn natural language.
-
+## [English](english/)
+   * [为什么学英语](english/为什么学英语.md)
+### pronunciation
 * [English - Pronunciation (谢孟媛)](english/pronunciation/xie/preface.md)
     * [Unit 1 - KK 音标](english/pronunciation/xie/unit1-kk.md)
     * [Unit 2 - 拼音练习和发音篇](english/pronunciation/xie/unit2-practice.md)
@@ -9,6 +11,7 @@ Learn natural language.
     * [Unit 4 - 重音练习](english/pronunciation/xie/unit4-accent.md)
     * [Unit 5 - 音的变化](english/pronunciation/xie/unit5-sound-change.md)
     * [补充](english/pronunciation/xie/appendix.md)
+### grammar
 * [English - 初级文法 (谢孟媛)](english/grammar/xie-1/preface.md)
     * [Unit 1 - 名词和冠词](english/grammar/xie-1/unit1-noun-article.md)
     * [Unit 2 - 动词的现在时](english/grammar/xie-1/unit2-verb.md)
